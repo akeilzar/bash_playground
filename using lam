@@ -13,6 +13,11 @@ MacBook-Pro:hello user$
 
 --
 
+MacBook-Pro:hello user$ lam -s "hi " one two three
+hi AAAhkhrebhsbkvshjfbvhbsfAAABBBhkhrebhfksjlgjdsbkvshjfbvhbsfdgskhfgksdhagBBBCCChkhrebhfksjlgjfdgdgfdgdfdsbkvshjfbvhbsfdgskhfgksdsdbfhskadfhagCCC
+
+--
+
 notes:
 
 l tab
