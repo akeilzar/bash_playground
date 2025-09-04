@@ -1,0 +1,12 @@
+MacBook-Pro:hello user$ lam -h
+usage: lam [ -f min.max ] [ -s sepstring ] [ -t c ] file ...
+       lam [ -p min.max ] [ -s sepstring ] [ -t c ] file ...
+MacBook-Pro:hello user$ ls
+MacBook-Pro:hello user$ echo "AAAhkhrebhsbkv\nshjfbvhbsfAAA" > one
+MacBook-Pro:hello user$ echo "BBBhkhrebhfksjlgjdsbkv\nshjfbvhbsfdgskhfgksdhagBBB" > two
+MacBook-Pro:hello user$ echo "CCChkhrebhfksjlgjfdgdgfdgdfdsbkv\nshjfbvhbsfdgskhfgksdsdbfhskadfhagCCC" > three
+MacBook-Pro:hello user$ ls
+one	three	two
+MacBook-Pro:hello user$ lam one two three
+AAAhkhrebhsbkv\nshjfbvhbsfAAABBBhkhrebhfksjlgjdsbkv\nshjfbvhbsfdgskhfgksdhagBBBCCChkhrebhfksjlgjfdgdgfdgdfdsbkv\nshjfbvhbsfdgskhfgksdsdbfhskadfhagCCC
+MacBook-Pro:hello user$ 
