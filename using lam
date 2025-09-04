@@ -10,3 +10,19 @@ one	three	two
 MacBook-Pro:hello user$ lam one two three
 AAAhkhrebhsbkv\nshjfbvhbsfAAABBBhkhrebhfksjlgjdsbkv\nshjfbvhbsfdgskhfgksdhagBBBCCChkhrebhfksjlgjfdgdgfdgdfdsbkv\nshjfbvhbsfdgskhfgksdsdbfhskadfhagCCC
 MacBook-Pro:hello user$ 
+
+--
+
+notes:
+
+l tab
+
+lam               ld                ldapurl           libnetcfg         llvm-gcc          log               lp                lpstat            lwp-download      lwp-request
+languagesetup     ldapadd           ldapwhoami        libnetcfg5.16     ln                logger            lpadmin           ls                lwp-download5.16  lwp-request5.16
+last              ldapcompare       leaks             libnetcfg5.18     loads.d           login             lpc               lsappinfo         lwp-download5.18  lwp-request5.18
+lastcomm          ldapdelete        leaks32           libtool           local             logname           lpinfo            lsbom             lwp-dump          
+lastwords         ldapexop          leave             link              locale            logout            lpmove            lskq              lwp-dump5.16      
+latency           ldapmodify        less              lipo              localedef         logresolve        lpoptions         lsm               lwp-dump5.18      
+launchctl         ldapmodrdn        lessecho          lkbib             localemanager     look              lpq               lsmp              lwp-mirror        
+launchd           ldappasswd        let               lldb              locate            lookbib           lpr               lsof              lwp-mirror5.16    
+layerutil         ldapsearch        lex               llvm-g++          lockstat          lorder            lprm              lsvfs             lwp-mirror5.18  
