@@ -31,3 +31,8 @@ latency           ldapmodify        less              lipo              localede
 launchctl         ldapmodrdn        lessecho          lkbib             localemanager     look              lpq               lsmp              lwp-mirror        
 launchd           ldappasswd        let               lldb              locate            lookbib           lpr               lsof              lwp-mirror5.16    
 layerutil         ldapsearch        lex               llvm-g++          lockstat          lorder            lprm              lsvfs             lwp-mirror5.18  
+
+--
+
+BSD General Commands Manual   
+
